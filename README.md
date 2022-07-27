@@ -46,6 +46,6 @@ Development Server: [AgendaCL Dev](https://agendacl-dev.herokuapp.com/)
 
 ## Authors and acknowledgment
 
-IMildlyHateCoding
+IMHCWinston
 
 nicholasalden
