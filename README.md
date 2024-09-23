@@ -4,12 +4,6 @@ AgendaCL (temporary name) is a web application that allows you to create, edit a
 
 ## Installation For Developers
 
-Retrieve the files either by downloading the zip or using git clone.
-
-```bash
-git clone "https://github.com/IMildlyHateCoding/agendacl.git"
-```
-
 Install using npm package manager.
 
 ```bash
