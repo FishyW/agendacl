@@ -22,10 +22,11 @@ Create a dot env file inside the directory and put in the Database URL Environme
 DATABASE_URL="postgresql://username:password@localhost:5432/db?=schema=myschema"
 ```
 
-Run prisma migrate to configure the database.
+Run prisma migrate, then generate to configure the database.
 
 ```bash
 npm run migrate
+npm run generate
 ```
 To use the app, run
 
