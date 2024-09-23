@@ -19,7 +19,10 @@ npm install
 Create a dot env file inside the directory and put in the Database URL Environment while replacing the parameters.
 
 ```env
+# PSQL
 DATABASE_URL="postgresql://username:password@localhost:5432/db?=schema=myschema"
+# SQLite
+DATABASE_URL="file:./dev.db"
 ```
 
 Run prisma migrate, then generate to configure the database.
